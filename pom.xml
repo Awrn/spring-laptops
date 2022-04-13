@@ -9,8 +9,8 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>OpenBootcamp_Spring_Ejercicios4-5-6</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<artifactId>spring-laptops</artifactId>
+	<version>1.0</version>
 	<name>pc-api</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
