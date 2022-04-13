@@ -12,6 +12,13 @@ public class HelloController {
     String user;
 
 
+    @GetMapping("/test")
+    public String test(){
+
+        return "hola como estas esdtamos testing heroku" + user;
+
+    }
+
     @GetMapping("/saludo")
     public String enviarSaludo(){
 
