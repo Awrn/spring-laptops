@@ -1,12 +1,11 @@
-package com.pcapi.controllers;
+package com.springLaptops.controllers;
 
-import com.pcapi.entities.Laptop;
-import com.pcapi.repositories.LaptopRepo;
+import com.springLaptops.entities.Laptop;
+import com.springLaptops.repositories.LaptopRepo;
 import io.swagger.annotations.ApiOperation;
 import io.swagger.annotations.ApiParam;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpHeaders;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

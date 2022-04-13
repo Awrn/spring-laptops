@@ -1,4 +1,4 @@
-package com.pcapi.entities;
+package com.springLaptops.entities;
 
 import io.swagger.annotations.ApiModel;
 import io.swagger.annotations.ApiModelProperty;

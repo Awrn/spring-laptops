@@ -1,6 +1,6 @@
-package com.pcapi.controllers;
+package com.springLaptops.controllers;
 
-import com.pcapi.entities.Laptop;
+import com.springLaptops.entities.Laptop;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;

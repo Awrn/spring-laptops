@@ -1,4 +1,4 @@
-package com.pcapi.config;
+package com.springLaptops.config;
 
 
 

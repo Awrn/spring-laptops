@@ -1,6 +1,6 @@
-package com.pcapi.repositories;
+package com.springLaptops.repositories;
 
-import com.pcapi.entities.Laptop;
+import com.springLaptops.entities.Laptop;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

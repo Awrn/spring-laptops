@@ -1,8 +1,6 @@
-package com.pcapi.controllers;
+package com.springLaptops.controllers;
 
 import org.junit.jupiter.api.Test;
-
-import static org.junit.jupiter.api.Assertions.*;
 
 class HelloControllerTest {
 
