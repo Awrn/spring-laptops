@@ -11,8 +11,8 @@
 	<groupId>com.example</groupId>
 	<artifactId>spring-laptops</artifactId>
 	<version>1.0</version>
-	<name>pc-api</name>
-	<description>Demo project for Spring Boot</description>
+	<name>spring-laptops</name>
+	<description>spring-laptops-demo-heroku</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
