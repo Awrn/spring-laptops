@@ -35,8 +35,6 @@ class LaptopControllerTest {
     }
 
 
-
-
     @Test
     void findAll() {
         ResponseEntity<Laptop[]> response = testRestTemplate.getForEntity("/api/laptops", Laptop[].class);
